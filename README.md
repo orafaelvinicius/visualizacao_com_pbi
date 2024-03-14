@@ -1,12 +1,19 @@
 # **DASHBOARD DE BOLETIM DE ACIDENTE DE TRÂNSITO (BAT)** 
 
-# **POLÍCIA RODOVIÁRIA FEDERAL** 
-
-# **2023**
+**POLÍCIA RODOVIÁRIA FEDERAL** 
+**2023**
 
 Unidade responsável: Diretoria de Operações (DIOP)
 
 Frequência de atualização: Mensal       
+
+## Equipe
+
+- [Rafael Vinícius](https://github.com/orafaelvinicius/)
+- [Kelly Oliveira](https://github.com/kellymso)
+- [Eduardo Mendes](https://github.com/EduAugustoM)
+- [Michel Camargo](https://github.com/michelcamargoj)
+
 
 ### BASE DE DADOS
 
